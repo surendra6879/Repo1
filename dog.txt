@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4423-14AE
+
+ Directory of C:\Users\os\Desktop\git project
+
+10/26/2017  04:12 PM    <DIR>          .
+10/26/2017  04:12 PM    <DIR>          ..
+10/26/2017  04:12 PM                 0 dog.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,847,488,000 bytes free
